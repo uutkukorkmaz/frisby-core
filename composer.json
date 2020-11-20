@@ -1,0 +1,16 @@
+{
+    "name": "uutkukorkmaz/frisbycore",
+    "description": "core files for frisby framework",
+    "authors": [
+        {
+            "name": "uutkukorkmaz",
+            "email": "uutkukorkmaz@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Frisby\\Framework\\": "./src"
+        }
+    },
+    "require": {}
+}
